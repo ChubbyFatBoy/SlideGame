@@ -1,0 +1,3 @@
+option 2
+width 1024
+height 768
